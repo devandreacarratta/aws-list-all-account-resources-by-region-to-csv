@@ -1,0 +1,1 @@
+# aws-list-all-account-resources-by-region-to-csv
