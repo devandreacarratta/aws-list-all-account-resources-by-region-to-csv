@@ -1,8 +1,8 @@
 # aws-list-all-account-resources-by-region-to-csv
 
-It was a Sunday moring and I decided to clean the old resource on my **AWS Account**. For this reason I made this **Python Script**.
+It was a Sunday morning, and I decided to clean up the old resources in my **AWS account**. For this reason, I created this **Python** script.
 
-The logic is very simple: for each region (regions list) the boto3 client searches the resource (resources list) and create a CSV with the details.
+The logic is very simple: for each region (in the list of regions), the boto3 client searches for the resources (in the list of resources) and creates a **CSV** with the details.
 
 ## Configuration
 
